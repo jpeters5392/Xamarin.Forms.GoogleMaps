@@ -312,9 +312,9 @@
 		<!--<file src="MapExtensions.Forms.Plugin.Abstractions\bin\Release\MapExtensions.Forms.Plugin.Abstractions.dll" target="lib\Xamarin.iOS10\MapExtensions.Forms.Plugin.Abstractions.dll" />
 		<file src="MapExtensions.Forms.Plugin.Abstractions\bin\Release\MapExtensions.Forms.Plugin.Abstractions.xml" target="lib\Xamarin.iOS10\MapExtensions.Forms.Plugin.Abstractions.xml" />-->
 
-    <!--uap-->
-		<file src="Xamarin.Forms.GoogleMaps.UWP\bin\Release\Xamarin.Forms.GoogleMaps.UWP.dll" target="lib\UAP10\Xamarin.Forms.GoogleMaps.UWP.dll" />
-		<file src="Xamarin.Forms.GoogleMaps\bin\Release\Xamarin.Forms.GoogleMaps.dll" target="lib\UAP10\Xamarin.Forms.GoogleMaps.dll" />
+    <!--uap commented out for now-->
+	<!--	<file src="Xamarin.Forms.GoogleMaps.UWP\bin\Release\Xamarin.Forms.GoogleMaps.UWP.dll" target="lib\UAP10\Xamarin.Forms.GoogleMaps.UWP.dll" />
+		<file src="Xamarin.Forms.GoogleMaps\bin\Release\Xamarin.Forms.GoogleMaps.dll" target="lib\UAP10\Xamarin.Forms.GoogleMaps.dll" />-->
 		<!--<file src="MapExtensions.Forms.Plugin.Abstractions\bin\Release\MapExtensions.Forms.Plugin.Abstractions.dll" target="lib\UAP10\MapExtensions.Forms.Plugin.Abstractions.dll" />
 		<file src="MapExtensions.Forms.Plugin.Abstractions\bin\Release\MapExtensions.Forms.Plugin.Abstractions.xml" target="lib\UAP10\MapExtensions.Forms.Plugin.Abstractions.xml" />
 		<file src="MapExtensions.Forms.Plugin.Abstractions\bin\Release\MapExtensions.Forms.Plugin.Abstractions.pdb" target="lib\UAP10\MapExtensions.Forms.Plugin.Abstractions.pdb" />-->
